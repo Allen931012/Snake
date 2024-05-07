@@ -29,4 +29,3 @@
 
 資工1B 謝秉倫:
 
-![Alt text] (/path/to/)
