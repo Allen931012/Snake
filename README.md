@@ -13,6 +13,12 @@
 
 
 ## 程式畫面截圖:
+![螢幕擷取畫面 2024-05-11 152418](https://github.com/Allen931012/Snake/assets/164881533/f927fa3d-6526-4a06-a42d-577ac2bfcfea)
+
+![螢幕擷取畫面 2024-05-11 152245](https://github.com/Allen931012/Snake/assets/164881533/7bf24440-6eb6-4d78-b3e4-ac00c5e7d3b9)
+
+![螢幕擷取畫面 2024-05-11 152305](https://github.com/Allen931012/Snake/assets/164881533/66a0ba81-fbdb-4a78-b565-bb8875105927)
+
 
 ## 程式如何安裝執行：
 1.下載專題
