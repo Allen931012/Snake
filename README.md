@@ -7,6 +7,7 @@
 ## 小專題題目：貪食蛇
 
 ## 程式介紹(含UML圖):
+![UML](https://github.com/Allen931012/Snake/assets/164881533/a6b1a0e7-ef9a-4da8-8e51-87b10662e560)
 
 
 ## 程式如何安裝執行(圖文講解):
