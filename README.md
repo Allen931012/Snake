@@ -20,6 +20,7 @@
 2.開啟visual studio 2022
 
 3.執行程式
+![UML](https://github.com/Allen931012/Snake/assets/164881533/076da9e0-ad73-42b3-899e-a880c419b8aa)
 
 
 ## 分工資訊：
