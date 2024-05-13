@@ -19,11 +19,7 @@
 
 ![螢幕擷取畫面 2024-05-13 212403](https://github.com/Allen931012/Snake/assets/164881533/1f5019c9-158a-4b1c-99f5-7dd4be916cad)
 
-3.開啟Visual Studio 2022
-
-4.並貼上程式碼
-
-5.就可執行遊戲
+3.開啟Visual Studio 2022，並貼上程式碼，就可執行遊戲
 
 
 ## 程式畫面截圖:
