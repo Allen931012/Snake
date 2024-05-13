@@ -28,9 +28,11 @@
 
 
 ## 程式如何安裝執行：
-1.到https://github.com/Allen931012/work1.git
+1.到https://github.com/Allen931012/work1.git 點選Snake
+![螢幕擷取畫面 2024-05-13 212317](https://github.com/Allen931012/Snake/assets/164881533/ddac26e8-148e-4601-8bda-bc6bc011f810)
 
 2.copy Snake.h跟Snake.cpp跟main.cpp
+![螢幕擷取畫面 2024-05-13 212403](https://github.com/Allen931012/Snake/assets/164881533/1f5019c9-158a-4b1c-99f5-7dd4be916cad)
 
 3.開啟Visual Studio 2022
 
