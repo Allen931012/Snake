@@ -10,7 +10,20 @@
 ![UML](https://github.com/Allen931012/Snake/assets/164881533/a6b1a0e7-ef9a-4da8-8e51-87b10662e560)
 
 
-## 程式如何安裝執行(圖文講解):
+## 程式如何安裝執行(圖文講解)：
+1.到https://github.com/Allen931012/work1.git 點選Snake
+
+![螢幕擷取畫面 2024-05-13 212317](https://github.com/Allen931012/Snake/assets/164881533/ddac26e8-148e-4601-8bda-bc6bc011f810)
+
+2.copy Snake.h跟Snake.cpp跟main.cpp
+
+![螢幕擷取畫面 2024-05-13 212403](https://github.com/Allen931012/Snake/assets/164881533/1f5019c9-158a-4b1c-99f5-7dd4be916cad)
+
+3.開啟Visual Studio 2022
+
+4.並貼上程式碼
+
+5.就可執行遊戲
 
 
 ## 程式畫面截圖:
@@ -27,26 +40,11 @@
 ![螢幕擷取畫面 2024-05-11 152305](https://github.com/Allen931012/Snake/assets/164881533/66a0ba81-fbdb-4a78-b565-bb8875105927)
 
 
-## 程式如何安裝執行：
-1.到https://github.com/Allen931012/work1.git 點選Snake
-
-![螢幕擷取畫面 2024-05-13 212317](https://github.com/Allen931012/Snake/assets/164881533/ddac26e8-148e-4601-8bda-bc6bc011f810)
-
-2.copy Snake.h跟Snake.cpp跟main.cpp
-
-![螢幕擷取畫面 2024-05-13 212403](https://github.com/Allen931012/Snake/assets/164881533/1f5019c9-158a-4b1c-99f5-7dd4be916cad)
-
-3.開啟Visual Studio 2022
-
-4.並貼上程式碼
-
-5.就可執行遊戲
-
 
 ## 分工資訊：
 
-資工1B 劉記廷(組長):
+資工1B 劉記廷(組長):共同製作
 
-資工1B 謝秉倫:
+資工1B 謝秉倫:共同製作
 
 可點擊以下報告，有詳細內容
