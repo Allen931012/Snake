@@ -28,7 +28,7 @@
 
 
 ## 程式如何安裝執行：
-1.到https://github.com/Allen931012/work1.git上
+1.到https://github.com/Allen931012/work1.git
 
 2.copy Snake.h跟Snake.cpp跟main.cpp
 
