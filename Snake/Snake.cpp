@@ -18,6 +18,10 @@ Snake::Snake() {
     y = height / 2;
     fruitX = rand() % width;
     fruitY = rand() % height;
+    for (int i = 0; i < 400; ++i) {
+        tailX[i] = 0;
+        tailY[i] = 0;
+    }
 }
 
 void Snake::Draw() {
