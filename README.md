@@ -28,11 +28,15 @@
 
 
 ## 程式如何安裝執行：
-1.下載專題
+1.到https://github.com/Allen931012/work1.git上
 
-2.開啟visual studio 2022
+2.copy Snake.h跟Snake.cpp跟main.cpp
 
-3.執行程式
+3.開啟Visual Studio 2022
+
+4.並貼上程式碼
+
+5.就可執行遊戲
 
 
 ## 分工資訊：
