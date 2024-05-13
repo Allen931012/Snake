@@ -24,8 +24,8 @@
 
 ## 程式畫面截圖:
 1.開始畫面
+![螢幕擷取畫面 2024-05-13 233829](https://github.com/Allen931012/Snake/assets/164881533/b638fdc6-ec8f-48fc-8f18-3e9a556d9278)
 
-![螢幕擷取畫面 2024-05-11 152418](https://github.com/Allen931012/Snake/assets/164881533/f927fa3d-6526-4a06-a42d-577ac2bfcfea)
 
 2.遊戲遊玩
 
