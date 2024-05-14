@@ -11,7 +11,7 @@
 
 
 ## 程式如何安裝執行(圖文講解)：
-1.到https://github.com/Allen931012/work1.git 點選Snake
+1.到https://github.com/Allen931012/work1.git    點選Snake
 
 ![螢幕擷取畫面 2024-05-13 212317](https://github.com/Allen931012/Snake/assets/164881533/ddac26e8-148e-4601-8bda-bc6bc011f810)
 
