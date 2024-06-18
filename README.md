@@ -42,6 +42,6 @@
 
 資工1B 劉記廷(組長):查資料、報告製作
 
-資工1B 謝秉倫:討論程式碼、查資料
+資工1B 謝秉倫:程式碼編寫、查資料
 
 可點擊以下報告，有詳細內容https://www.canva.com/design/DAGEoBdcnz8/e7qtO7HrKddsvG7e9SFORw/edit?utm_content=DAGEoBdcnz8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
